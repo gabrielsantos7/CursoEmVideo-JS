@@ -4,7 +4,8 @@ Este repositório contém os projetos desenvolvidos durante o curso de JavaScrip
 
 ## 📌Lista de Projetos
 
-0. ### Modelo
+0. ### 🧩Modelo
+
 Protótipo de design utilizado em todos os projetos;
 
 1. ### ⏰Projeto 1: Relógio e Saudação por Período do Dia
@@ -21,7 +22,7 @@ Protótipo de design utilizado em todos os projetos;
    Uma página que exibe a tabuada de um número escolhido pelo usuário.
 5. ### 📈 Projeto 5: Informações sobre Sequência de Números
 
-   Uma página que mostra diversas informações sobre uma sequência de números fornecida pelo usuário. 
+   Uma página que mostra diversas informações sobre uma sequência de números fornecida pelo usuário.
 
 ## ▶Como Executar os Projetos
 
@@ -35,5 +36,4 @@ Protótipo de design utilizado em todos os projetos;
    ```
    cd nome-do-projeto
    ```
-
 3. Abra o arquivo `index.html` no seu navegador para executar o projeto.

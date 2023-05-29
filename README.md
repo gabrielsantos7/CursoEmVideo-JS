@@ -4,15 +4,18 @@ Este repositório contém os projetos desenvolvidos durante o curso de JavaScrip
 
 ## 📌Lista de Projetos
 
+0. ### Modelo
+Protótipo de design utilizado em todos os projetos;
+
 1. ### ⏰Projeto 1: Relógio e Saudação por Período do Dia
 
-   Uma página Web que exibe o horário atual e uma saudação personalizada de acordo com o período do dia.
+   Uma página Web queAltera a imagem e a cor de fundo do site de acordo com o horárioperíodo do dia que o usuário visitou a página.
 2. ### 📷 Projeto 2: Foto Personalizada de Acordo com Parâmetros do Usuário
 
    Uma página que exibe uma foto personalizada de acordo com os parâmetros fornecidos pelo usuário.
 3. ### 📊 Projeto 3: Sequência de Números Personalizada
 
-   Uma página que cria uma sequência de números personalizada com base nos parâmetros fornecidos pelo usuário.
+   Uma página que realiza uma contagem numérica de acordo com parâmetros recebidos do usuário.
 4. ### 🧮 Projeto 4: Tabuada Personalizada
 
    Uma página que exibe a tabuada de um número escolhido pelo usuário.
